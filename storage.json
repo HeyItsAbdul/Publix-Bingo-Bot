@@ -1,0 +1,43 @@
+{
+    "events": [
+        "'Where's the pharmacy?'",
+        "'Can I get some help in the floral department?'",
+        "'Looks like you need something to do'",
+        "Someone goes home early",
+        "Where's the bathroom?",
+        "Take care of Lottery David",
+        "Someone wants to check out at the Desk with < 10 items",
+        "Someone attempts to pay for a MO with tap",
+        "MO machine jams",
+        "2 Western Union transfers in a row from the same person",
+        "'Can you double bag that?'",
+        "WIC issues",
+        "'Can I speak to a manager?'",
+        "Ava talks about a boy",
+        "Chuck wants a spot mop",
+        "Someone turns their cart around assuming you'll grab it",
+        "'I thought that was BOGO?'",
+        "'Do you have the new Ad?'",
+        "'And then some...'",
+        "A really bad smelling individual",
+        "Customer is confirmed stealing",
+        "'I lost my phone...'",
+        "Johnney in the parking lot",
+        "Ice cream guy comes in",
+        "Customer spills something",
+        "Someone leaves a cart in the vestibules and doesnt push it in",
+        "A visit from the DM",
+        "Floor machine fucks up",
+        "No baggers bagging",
+        "Monica asks for a smoke break",
+        "Michelle gives you a high five",
+        "'I need numbers'",
+        "'There's no paper towels in the bathroom'",
+        "Someone wants to pay for lotto with a debit card",
+        "Someone throws a tantrum at SCO because it doesn't take cash"
+
+    ],
+    "players": [
+        
+    ]
+}
