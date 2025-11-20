@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 import os
+from PIL import Image, ImageDraw, ImageFont
 
 from player import *
 from bingocard import *
